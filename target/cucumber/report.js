@@ -203,21 +203,21 @@ formatter.match({
   "location": "cucumberJava.openBrowser()"
 });
 formatter.result({
-  "duration": 1610826450,
+  "duration": 1576951766,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberJava.goToFacebook()"
 });
 formatter.result({
-  "duration": 4831602133,
+  "duration": 4853893633,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberJava.loginButton()"
 });
 formatter.result({
-  "duration": 134180634,
+  "duration": 592798168,
   "status": "passed"
 });
 });
